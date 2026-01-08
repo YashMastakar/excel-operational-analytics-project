@@ -96,7 +96,7 @@ For a detailed review of the full report, have a look at the files below:
 * **[Pic2 - Assignment 2: Logistics Optimization logic](./Operat_Sheets_Proj_Pic2.png)
 * **[Pic3 - Assignment 2: Logistics Optimization logic](./Operat_Sheets_Proj_Pic3.png)
 
-Here is link of the sheets - https://docs.google.com/spreadsheets/d/1dI_lvJbjg5wGJVwWJSDV4YkqJ4BobeUnQOnQeVrr8es/edit?usp=sharing
+Here is link of the sheets project - ![Link](https://docs.google.com/spreadsheets/d/1dI_lvJbjg5wGJVwWJSDV4YkqJ4BobeUnQOnQeVrr8es/edit?usp=sharing)
 ---
 
 ## 🚀 Key Takeaways
