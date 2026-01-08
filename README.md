@@ -1,7 +1,4 @@
-# excel-operational-analytics-project
-Real-world Excel &amp; Google Sheets project demonstrating operational analytics, advanced formulas, and logistics optimization through a company assignment case study.
-
-# 📊 Operational Analytics & Logistics Optimization (Excel / Google Sheets Project)
+# 📊 Operational Analytics & Logistics Optimization (Google Sheets Project)
 
 ## 📌 Project Overview
 
@@ -87,11 +84,19 @@ This approach mirrors **real warehouse decision-making** used in logistics opera
 ## 📸 Project Evidence
 
 📷 Screenshots included:
-- Assignment 1: Sales & Operational Analysis (formulas visible)
-- Assignment 2: Logistics & Packaging Optimization logic
+- Pic1 - Assignment 1: Sales & Operational Analysis
+- Pic2 - Assignment 2: Logistics Optimization logic
 
 *(Screenshots are shared as images to preserve original formatting and formulas.)*
 
+## 📂 Project Resources
+For a detailed review of the full report, have a look at the files below:
+
+* **[Pic1 - Assignment 1: Sales & Operational Analysis](./Operat_Sheets_Proj_Pic1.png)
+* **[Pic2 - Assignment 2: Logistics Optimization logic](./Operat_Sheets_Proj_Pic2.png)
+* **[Pic3 - Assignment 2: Logistics Optimization logic](./Operat_Sheets_Proj_Pic3.png)
+
+Here is link of the sheets - https://docs.google.com/spreadsheets/d/1dI_lvJbjg5wGJVwWJSDV4YkqJ4BobeUnQOnQeVrr8es/edit?usp=sharing
 ---
 
 ## 🚀 Key Takeaways
